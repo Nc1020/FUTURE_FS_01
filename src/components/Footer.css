@@ -1,0 +1,12 @@
+/* ========================= FOOTER ========================= */
+.footer {
+  padding: 40px 0;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.88rem;
+  border-top: 1px solid var(--glass-border);
+}
+
+.footer .heart {
+  color: #e25555;
+}
